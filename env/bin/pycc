@@ -1,0 +1,3 @@
+#!/home/gadekarmd/self checkup/env/bin/python
+from numba.pycc import main
+main()
